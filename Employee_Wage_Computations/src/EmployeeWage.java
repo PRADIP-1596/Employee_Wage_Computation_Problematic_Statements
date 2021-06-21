@@ -1,5 +1,4 @@
-  
-public class EmployeeWage {
+ public class EmployeeWage {
 	void empSalary() {
 		int isFullTime = 1;
 		int isPartTime = 2;
